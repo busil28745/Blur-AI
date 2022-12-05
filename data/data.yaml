@@ -1,0 +1,5 @@
+train: C:\Users\bsbbc\project_ai\yolov5-master\data\train\images
+val: C:\Users\bsbbc\project_ai\yolov5-master\data\valid\images
+
+nc: 2
+names: ['space-empty', 'space-occupied']
